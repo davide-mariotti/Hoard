@@ -13,6 +13,13 @@
   <a href="https://ko-fi.com/Z0X32ATNHL"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee on Ko-fi"></a>
 </p>
 
+<p align="center">
+  <img src="docs/screenshots/map.webp" width="760" alt="Hoard's window: drive C: as a map of tiles coloured by kind of file, with the breakdown by kind on the right">
+</p>
+<p align="center">
+  <img src="docs/screenshots/folder.webp" width="375" alt="A user folder in Hoard, with the folders worth a look on the right"> <img src="docs/screenshots/scan.webp" width="375" alt="Hoard reading drive C: counters, and the main folders as growing bars">
+</p>
+
 ---
 
 ## English
